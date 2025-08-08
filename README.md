@@ -112,6 +112,7 @@ DB_HOST=
 DB_USER=
 DB_PASSWORD=
 DB_NAME=
+
 🔐 Roles & Access
 Student
 
@@ -119,11 +120,11 @@ View/update profile
 
 Pay fees
 
-Track belts, get notifications
+Track belts, receive notifications
 
 Instructor
 
-Manage students
+Manage students (belts & certificates)
 
 Upload certificates
 
