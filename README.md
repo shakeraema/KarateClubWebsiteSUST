@@ -98,8 +98,6 @@ Backend runs at: http://localhost:4000
 Set the following in both frontend and backend:
 
 env
-Copy
-Edit
 # Cloudinary
 CLOUDINARY_CLOUD_NAME=
 CLOUDINARY_API_KEY=
@@ -134,9 +132,17 @@ Public
 Access events, instructors, and registration
 
 📸 Screenshots
+<img width="2470" height="6894" alt="image" src="https://github.com/user-attachments/assets/62bdef90-fbcd-4b4a-bf11-00868522a6dc" />
+<img width="2470" height="2552" alt="image" src="https://github.com/user-attachments/assets/3fc2a844-91de-41a3-b8cd-66fb36a03bb9" />
+<img width="2470" height="3148" alt="image" src="https://github.com/user-attachments/assets/bebd6266-55b7-447c-ade6-c568d17ab861" />
+<img width="2470" height="4220" alt="image" src="https://github.com/user-attachments/assets/5d5f5037-dadd-4fef-b97c-a4f778d4d1ef" />
+<img width="2470" height="2750" alt="image" src="https://github.com/user-attachments/assets/7e9149f7-6010-498d-8f2a-a1955d8de20e" />
 
-📣 Contributions
-Contributions 
+
+
+
+📣 Contributors: **Shakera Jannat Ema**
+                **Nivrita Munib**
 
 🪪 License
 SUST © 2025 [Shakera-Nivrita / SUST]
