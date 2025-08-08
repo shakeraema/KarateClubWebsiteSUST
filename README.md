@@ -1,3 +1,7 @@
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 # 🥋 SUST Karate Club – Web Management System
 
 A full-stack web application to digitize the operations of the Karate Club at Shahjalal University of Science and Technology (SUST). The system allows students to register, pay fees, track belt progress, and stay updated on events, while instructors can manage students, send notifications, and maintain schedules.
@@ -131,18 +135,23 @@ Public
 
 Access events, instructors, and registration
 
-📸 Screenshots
+<details>
+  <summary>📸 View Screenshots</summary>
 <img width="2470" height="6894" alt="image" src="https://github.com/user-attachments/assets/62bdef90-fbcd-4b4a-bf11-00868522a6dc" />
 <img width="2470" height="2552" alt="image" src="https://github.com/user-attachments/assets/3fc2a844-91de-41a3-b8cd-66fb36a03bb9" />
 <img width="2470" height="3148" alt="image" src="https://github.com/user-attachments/assets/bebd6266-55b7-447c-ade6-c568d17ab861" />
 <img width="2470" height="4220" alt="image" src="https://github.com/user-attachments/assets/5d5f5037-dadd-4fef-b97c-a4f778d4d1ef" />
 <img width="2470" height="2750" alt="image" src="https://github.com/user-attachments/assets/7e9149f7-6010-498d-8f2a-a1955d8de20e" />
+</details>
+
+## 🌐 Live Demo
+will be uploaded soon!!
 
 
+📣 Contributors:  
+- [Shakera Jannat Ema](https://github.com/shakeraema)  
+- [Nivrita Munib](https://github.com/Nivrita44)  
 
-
-📣 Contributors: **Shakera Jannat Ema**
-                **Nivrita Munib**
 
 🪪 License
 SUST © 2025 [Shakera-Nivrita / SUST]
